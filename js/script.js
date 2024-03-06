@@ -6,9 +6,9 @@ jQuery(function($){
 });
 */
 const images =[
-  '../images/concept/concept.png',
-  '../images/about/about1.png',
-  '../images/about/about2.png'
+  './images/concept/concept.png',
+  './images/about/about1.png',
+  './images/about/about2.png'
 ];
 let current=0;
 
